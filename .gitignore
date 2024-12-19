@@ -1,0 +1,23 @@
+# 忽略日志文件
+*.log
+
+# 忽略PDF文件
+*.pdf
+*.csv
+# 可选：忽略日志目录（如果有）
+tests/
+result/
+
+# 忽略Python编译产生的缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略编辑器或IDE配置文件（根据实际情况增删）
+.vscode/
+.idea/
+
+# 忽略其他不需要版本控制的文件
+.DS_Store
+Thumbs.db
