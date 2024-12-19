@@ -1,9 +1,23 @@
 # README
-展示：
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+
+## 展示
+
+<div align="center">
+  <img src="img.png" width="300" alt="主界面展示" />
+</div>
+
+<div align="center">
+  <img src="img_1.png" width="300" alt="PDF文件选择界面" />
+</div>
+
+<div align="center">
+  <img src="img_2.png" width="300" alt="文本模式界面" />
+</div>
+
+<div align="center">
+  <img src="img_3.png" width="300" alt="翻译结果展示窗口" />
+</div>
+
 ## 项目简介
 
 本项目是一个基于大语言模型（Large Language Model, LLM）的论文阅读与翻译辅助工具。它通过用户界面（GUI）和后端处理逻辑，提供以下功能：
@@ -106,6 +120,6 @@
 如有问题或建议，可联系项目维护者或在Issue中讨论。
 
 ## 参考资料
-字节跳动/火山引擎大模型 API 文档：https://www.volcengine.com/docs/82379/1399008
-PyTesseract 文档：https://pypi.org/project/pytesseract/
-PyPDF2 文档：https://pypdf2.readthedocs.io/
+- 字节跳动/火山引擎大模型 API 文档：https://www.volcengine.com/docs/82379/1399008
+- PyTesseract 文档：https://pypi.org/project/pytesseract/
+- PyPDF2 文档：https://pypdf2.readthedocs.io/
